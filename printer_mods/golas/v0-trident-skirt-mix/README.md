@@ -4,8 +4,8 @@
 
 ## Contents
 
-* stl files with no. suffix
-* manual for simplier assembly
+* [stl files](/stl) with no. suffix
+* [manual](/manual/Assembly_Manual_V0.1_Trident_remixed_skirt_with_12864_lcd.pdf) for simplier assembly
 * BOM
 
 ## BOM
